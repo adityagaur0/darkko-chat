@@ -1,0 +1,41 @@
+# Global ignores for all subprojects
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Flutter
+.dart_tool/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+Generated.xcconfig
+
+# Java/Gradle
+.gradle/
+build/
+out/
+
+# Backend/Java
+target/
+
+# Web build artifacts
+*.env
+.env.local
+.env.*
