@@ -1,0 +1,13 @@
+package com.drakko.drakko_server;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DrakkoServerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
